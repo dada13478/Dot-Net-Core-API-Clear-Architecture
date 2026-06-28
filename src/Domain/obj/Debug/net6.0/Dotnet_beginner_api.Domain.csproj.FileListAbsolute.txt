@@ -1,0 +1,12 @@
+D:\Side_project\Dotnet_beginner_api\src\Domain\bin\Debug\net6.0\Dotnet_beginner_api.Domain.deps.json
+D:\Side_project\Dotnet_beginner_api\src\Domain\bin\Debug\net6.0\Dotnet_beginner_api.Domain.dll
+D:\Side_project\Dotnet_beginner_api\src\Domain\bin\Debug\net6.0\Dotnet_beginner_api.Domain.pdb
+D:\Side_project\Dotnet_beginner_api\src\Domain\obj\Debug\net6.0\Dotnet_beginner_api.Domain.csproj.AssemblyReference.cache
+D:\Side_project\Dotnet_beginner_api\src\Domain\obj\Debug\net6.0\Dotnet_beginner_api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Side_project\Dotnet_beginner_api\src\Domain\obj\Debug\net6.0\Dotnet_beginner_api.Domain.AssemblyInfoInputs.cache
+D:\Side_project\Dotnet_beginner_api\src\Domain\obj\Debug\net6.0\Dotnet_beginner_api.Domain.AssemblyInfo.cs
+D:\Side_project\Dotnet_beginner_api\src\Domain\obj\Debug\net6.0\Dotnet_beginner_api.Domain.csproj.CoreCompileInputs.cache
+D:\Side_project\Dotnet_beginner_api\src\Domain\obj\Debug\net6.0\Dotnet_beginner_api.Domain.dll
+D:\Side_project\Dotnet_beginner_api\src\Domain\obj\Debug\net6.0\refint\Dotnet_beginner_api.Domain.dll
+D:\Side_project\Dotnet_beginner_api\src\Domain\obj\Debug\net6.0\Dotnet_beginner_api.Domain.pdb
+D:\Side_project\Dotnet_beginner_api\src\Domain\obj\Debug\net6.0\ref\Dotnet_beginner_api.Domain.dll

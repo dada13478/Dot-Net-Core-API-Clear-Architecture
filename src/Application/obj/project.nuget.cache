@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rMOaSsmygPT5YwLfRIHybOju/JWFswRVrPGdpDkxxrfDUylLG1/URflb0An+DpQ8Kg/yfSgswiBAq3fV027leg==",
+  "success": true,
+  "projectFilePath": "D:\\Side_project\\Dotnet_beginner_api\\src\\Application\\Dotnet_beginner_api.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NinNin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

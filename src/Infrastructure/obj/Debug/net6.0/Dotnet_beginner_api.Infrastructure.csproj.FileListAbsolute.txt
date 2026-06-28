@@ -1,0 +1,17 @@
+D:\Side_project\Dotnet_beginner_api\src\Infrastructure\bin\Debug\net6.0\Dotnet_beginner_api.Infrastructure.deps.json
+D:\Side_project\Dotnet_beginner_api\src\Infrastructure\bin\Debug\net6.0\Dotnet_beginner_api.Infrastructure.runtimeconfig.json
+D:\Side_project\Dotnet_beginner_api\src\Infrastructure\bin\Debug\net6.0\Dotnet_beginner_api.Infrastructure.dll
+D:\Side_project\Dotnet_beginner_api\src\Infrastructure\bin\Debug\net6.0\Dotnet_beginner_api.Infrastructure.pdb
+D:\Side_project\Dotnet_beginner_api\src\Infrastructure\bin\Debug\net6.0\Dotnet_beginner_api.Domain.dll
+D:\Side_project\Dotnet_beginner_api\src\Infrastructure\bin\Debug\net6.0\Dotnet_beginner_api.Domain.pdb
+D:\Side_project\Dotnet_beginner_api\src\Infrastructure\obj\Debug\net6.0\Dotnet_beginner_api.Infrastructure.csproj.AssemblyReference.cache
+D:\Side_project\Dotnet_beginner_api\src\Infrastructure\obj\Debug\net6.0\Dotnet_beginner_api.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Side_project\Dotnet_beginner_api\src\Infrastructure\obj\Debug\net6.0\Dotnet_beginner_api.Infrastructure.AssemblyInfoInputs.cache
+D:\Side_project\Dotnet_beginner_api\src\Infrastructure\obj\Debug\net6.0\Dotnet_beginner_api.Infrastructure.AssemblyInfo.cs
+D:\Side_project\Dotnet_beginner_api\src\Infrastructure\obj\Debug\net6.0\Dotnet_beginner_api.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Side_project\Dotnet_beginner_api\src\Infrastructure\obj\Debug\net6.0\Dotnet_beginner_api.Infrastructure.csproj.CopyComplete
+D:\Side_project\Dotnet_beginner_api\src\Infrastructure\obj\Debug\net6.0\Dotnet_beginner_api.Infrastructure.dll
+D:\Side_project\Dotnet_beginner_api\src\Infrastructure\obj\Debug\net6.0\refint\Dotnet_beginner_api.Infrastructure.dll
+D:\Side_project\Dotnet_beginner_api\src\Infrastructure\obj\Debug\net6.0\Dotnet_beginner_api.Infrastructure.pdb
+D:\Side_project\Dotnet_beginner_api\src\Infrastructure\obj\Debug\net6.0\Dotnet_beginner_api.Infrastructure.genruntimeconfig.cache
+D:\Side_project\Dotnet_beginner_api\src\Infrastructure\obj\Debug\net6.0\ref\Dotnet_beginner_api.Infrastructure.dll

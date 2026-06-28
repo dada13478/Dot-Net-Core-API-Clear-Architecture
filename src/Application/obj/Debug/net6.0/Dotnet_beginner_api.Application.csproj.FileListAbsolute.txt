@@ -1,0 +1,15 @@
+D:\Side_project\Dotnet_beginner_api\src\Application\bin\Debug\net6.0\Dotnet_beginner_api.Application.deps.json
+D:\Side_project\Dotnet_beginner_api\src\Application\bin\Debug\net6.0\Dotnet_beginner_api.Application.dll
+D:\Side_project\Dotnet_beginner_api\src\Application\bin\Debug\net6.0\Dotnet_beginner_api.Application.pdb
+D:\Side_project\Dotnet_beginner_api\src\Application\bin\Debug\net6.0\Dotnet_beginner_api.Domain.dll
+D:\Side_project\Dotnet_beginner_api\src\Application\bin\Debug\net6.0\Dotnet_beginner_api.Domain.pdb
+D:\Side_project\Dotnet_beginner_api\src\Application\obj\Debug\net6.0\Dotnet_beginner_api.Application.csproj.AssemblyReference.cache
+D:\Side_project\Dotnet_beginner_api\src\Application\obj\Debug\net6.0\Dotnet_beginner_api.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Side_project\Dotnet_beginner_api\src\Application\obj\Debug\net6.0\Dotnet_beginner_api.Application.AssemblyInfoInputs.cache
+D:\Side_project\Dotnet_beginner_api\src\Application\obj\Debug\net6.0\Dotnet_beginner_api.Application.AssemblyInfo.cs
+D:\Side_project\Dotnet_beginner_api\src\Application\obj\Debug\net6.0\Dotnet_beginner_api.Application.csproj.CoreCompileInputs.cache
+D:\Side_project\Dotnet_beginner_api\src\Application\obj\Debug\net6.0\Dotnet_beginner_api.Application.csproj.CopyComplete
+D:\Side_project\Dotnet_beginner_api\src\Application\obj\Debug\net6.0\Dotnet_beginner_api.Application.dll
+D:\Side_project\Dotnet_beginner_api\src\Application\obj\Debug\net6.0\refint\Dotnet_beginner_api.Application.dll
+D:\Side_project\Dotnet_beginner_api\src\Application\obj\Debug\net6.0\Dotnet_beginner_api.Application.pdb
+D:\Side_project\Dotnet_beginner_api\src\Application\obj\Debug\net6.0\ref\Dotnet_beginner_api.Application.dll
